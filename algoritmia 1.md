@@ -36,3 +36,22 @@ Algoritmo CalculoDescuento
     escribir "total a pagar", total
 
 FinAlgoritmo
+
+
+Algoritmo CalculoMatematico
+   definir A, B, Suma, Resta, Multiplicacion, Division, Modulo, Potencia como Reales
+
+   Escribir "valor numero 1"
+   Leer A
+
+   Escribir "valor numero 2"
+   Leer B
+
+   Suma <- A + b
+   Resta <- A - BAlgori
+   Multiplicacion <- A * B
+   Division <- A / B
+
+   Escribir "los resultados son: Suma: ", Suma, "Resta: ", Resta, "Multiplicacion: ", Multiplicacion, "Division: ", Dvision
+
+   FinAlgoritmo
